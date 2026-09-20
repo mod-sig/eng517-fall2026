@@ -1,14 +1,14 @@
 # Recognizing Phishing Emails
 
-Phishing scams try to trick you into providing criminals with money or private information. By combining your private information like passwords or answers to security questions with publicly available information about you, criminals can steal your identity and cause alot of trouble. For example, they could open new credit cards, take out loans, purchase expensive items, or even receive medical care in your name.[^1] Criminals might also sell your information and target your friends, family, and other people you know.
+Phishing scams try to trick you into providing criminals with money or private information. By combining your private information like passwords or answers to security questions with publicly available information about you, criminals can steal your identity and cause a lot of trouble. For example, they could open new credit cards, take out loans, purchase expensive items, or even receive medical care in your name.[^1] Criminals might also sell your information and target your friends, family, and other people you know.
 
-Phishing emails masquerade as messages from legitimate organizationsor people. These emails may include incredible job offers ordemands that you update your payment information for an onlines ervice. Criminals hope that you will be too surprised or upset tonotice that the links in these emails are to harmful (yet oftenreal-looking) websites that steal any information you provide.
+Phishing emails masquerade as messages from legitimate organizations or people. These emails may include incredible job offers or demands that you update your payment information for an online service. Criminals hope that you will be too surprised or upset to notice that the links in these emails are to harmful (yet often real-looking) websites that steal any information you provide.
 
-Fortunately, phishing emails often have several clues that can help youidentify when someone is trying to trick you. Here's how you can staysafe.
+Fortunately, phishing emails often have several clues that can help you identify when someone is trying to trick you. Here's how you can stay safe.
 
 ## Check the Sender
 
-Check the sender or the "from" field in your email client. Although phishing emails may appear to come from legitimate sources, the senderdomain (the part after the @ symbol) is often fake. For example, all three of the emails in the following image are fake, although one appears more legitimate.
+Check the sender or the "from" field in your email client. Although phishing emails may appear to come from legitimate sources, the sender domain (the part after the @ symbol) is often fake. For example, all three of the emails in the following image are fake, although one appears more legitimate.
 
 ![](images/sender_list.png)
 
