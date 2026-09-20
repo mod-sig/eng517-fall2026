@@ -16,11 +16,11 @@ Fake domains usually contain misspellings or extra elements, such as "ncsu-edu.c
 
 ![](images/sender_hover.png)
 
-## Check the Subject
+## Check the Subject and Skim the Email
 
-Check the subject line and ask yourself some quick questions:
+Check the subject line, skim the email, and ask yourself some quick questions:
 
-- Am I expecting this person to message me about this?
+- Am I expecting this person to message me about this topic?
 
   - The chancellor's office, for example, doesn't usually offer jobs to students via email.
 
@@ -41,6 +41,12 @@ Hover your mouse over a link to see the destination; depending on your web brows
 If you think the email is legitimate, consider contacting the sender directly to ask. Instead of replying to the email, however, use your address book, [the campus directory](https://directory.ncsu.edu/), or the business's official website to get the correct contact info. For example, rather than replying to a suspicious email from your bank, go to your bank's website and use the contact info there.
 
 If you're not so sure about the email, you can consult with the NC State Help Desk by using the [campus IT service portal](https://help.ncsu.edu/) or calling 919-515-HELP (4357). You can also forward suspicious emails to [phishing@ncsu.edu](mailto:phishing@ncsu.edu).[^2]
+
+If you think that you have already provided sensitive information to a scammer, such as by following a link to "confirm your payment details" or "authorize your account", then you should immediately follow these steps to secure your accounts:
+
+- Reset your password for the affected service or account. Additionally, if the scam involved banking or payment information, contact your bank for further instructions. Although it may be embarrassing to report that your information has been stolen, your bank or credit card provider can't help you unless you tell them what has happened.
+- Reset your email password. You can reset your university email password [here](https://selfserviceidm.ncsu.edu/SSPW/pwdchangeform.htm).
+- Contact the NC State Help Desk to report the email. Again, although you might feel embarrassed, know that IT staff will likely be grateful that you proactively reached out to them to resolve the problem.
 
 ## Disengage
 
