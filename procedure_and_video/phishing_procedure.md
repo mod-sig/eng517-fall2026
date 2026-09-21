@@ -8,13 +8,13 @@ Fortunately, phishing emails often have several clues that can help you identify
 
 ## Check the Sender
 
-Check the sender or the "from" field in your email client. Although phishing emails may appear to come from legitimate sources, the sender domain (the part after the @ symbol) is often fake. For example, all three of the emails in the following image are fake, although one appears more legitimate.
+Check the sender or the "from" field in your email client. Although phishing emails may appear to come from legitimate sources, the sender domain (the part after the @ symbol) is often fake. For example, all three of the emails in figure 1 are fake, although one appears more legitimate.
 
-![](images/sender_list.png)
+![](images/sender_list.png) **Figure 1**. *Two obviously fake senders (bottom) and one that appears legitimate (top).*
 
-Fake domains usually contain misspellings or extra elements, such as "ncsu-edu.com" rather than "ncsu.edu", as in the image; "microsoft-usa.com" rather than "microsoft.com", or "netf1ix.com" rather than "netflix.com". And sometimes attackers use personal email domains like "gmail.com" rather than official domains, hoping you don't notice. Don't expect our chancellor to contact you via a gmail.com address with the wrong photo!
+Fake domains usually contain misspellings or extra elements, such as "ncsu-edu.com" rather than "ncsu.edu", as in the image; "microsoft-usa.com" rather than "microsoft.com", or "netf1ix.com" rather than "netflix.com". And sometimes attackers use personal email domains like "gmail.com" rather than official domains, hoping you don't notice (as in figure 2). Don't expect our chancellor to contact you via a gmail.com address with the wrong photo!
 
-![](images/sender_hover.png)
+![](images/sender_hover.png) **Figure 2**. *Hovering over the top sender reveals that the email was sent from a personal rather than official address.*
 
 ## Check the Subject and Skim the Email
 
@@ -30,9 +30,9 @@ Check the subject line, skim the email, and ask yourself some quick questions:
 
 ## Check the Links
 
-The destination of a link—where it takes you when you click—and the text or image of the link itself can be vastly different, as the following image demonstrates.
+The destination of a link—where it takes you when you click—and the text or image of the link itself can be vastly different, as figure 3 demonstrates.
 
-![](images/link_destination.png)
+![](images/link_destination.png) **Figure 3**. *Although the link proclaims to be legitimate, it directs you to a scam website.*
 
 Hover your mouse over a link to see the destination; depending on your web browser, the destination may appear as a pop-up or in the corner of your screen. Don't click the link if you don't recognize the destination or if it seems suspicious, such as the example in the image or something like an Instagram email with the destination "instagram-accounts.com" rather than "instagram.com".
 
