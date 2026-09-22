@@ -1,7 +1,11 @@
-justify:
+# Carliner's Framework
 
-- physical design
-  - primarily audio/video quality
-- cognitive design
-- affective design
-- shot variety (establishing, medium, close) and effects
+- **Physical Design**: The video is high definition and the audio is sufficiently clear with a stable volume. Although the video isn't actively "cropped", the establishing inbox shot contrasts with later shots (of an email) where the side tab has been closed to focus on the email content. My voiceover often complements the mouse movements (e.g., highlighting a domain address when explaining the content). I maintain a fairly conversational speaking rate, pausing to allow the user to pause the video.
+- **Cognitive Design**: My opening screens establish the structure and goals of the procedure. Each action is directly related to a task, such as hovering over a link to verify its legitimacy. My factual information is accurate: for example, I correctly identify the NC State official domain and the Help Desk website.
+- **Affective Design**: I chose to establish credibility by avoiding first-person pronouns, instead speaking directly to the user and referencing official sources like the IT department. I contrast a legitimate email with several fake emails, demonstrating the steps a user can take to identify either. University students may even have a copy of the sample legitimate email I used because it was sent to all students. I use a familiar interface (NCSU Gmail web client). The fake email from the "chancellor" is hopefully humorous.
+
+# Enhancement
+
+- **Shot Selection**: I include a title card and then overview screen before the establishing inbox shot. I use a visually simple overview screen to explain phishing emails and only then display the inbox shot, thus changing the context and making the inbox shot more salient (novel). As I noted earlier, although I don't actually crop the video, I do configure UI elements afterward to metaphorically zoom in on emails.
+- **Transitions**: I use subtle fades when changing context, such as from the red slides to the inbox. I don't use these transitions when a more disjointed cut would actually be natural, such as clicking a link to open a new webpage.
+- **Zoom and Pan**: I zoom and pan to the bottom left corner of the screen when explaining that some web browsers place link destinations there. As I described in my analysis of the written procedure (figure 3), I do this to link two visually distant pieces of information.
