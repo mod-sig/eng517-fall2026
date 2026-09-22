@@ -1,7 +1,4 @@
-justify:
-
-- read to learn to do
-- minimal approach to writing
-- organized into tasks
-- conventional style
-- effective use of images
+- **Read to Learn to Do**: I struck a balance between actionable steps (read-to-do) and context or background information about parts of the procedure (read-to-learn). The first paragraph provides a rationale for the procedure by explaining why phishing scams are potentially a serious threat. The procedure also addresses the affective state of the audience (e.g., "although it may be embarrassing"), which is uncommon in read-to-do procedures.
+- **Organize into Tasks**: The procedure is separated into steps (as headings), each of which is a task. I expect that users can identify, for example, when they have completed the task "check the sender"; this subgoal has steps and an end state.
+- **Minimal Approach to Writing** and **Conventional Style**: Although I don't use gerunds in steps/headings, I do use the imperative mood (consistently). I designed the procedure around the user, which is perhaps most observable via the second-person pronouns. I had trouble including remedial steps for failure states; for example, a user may not know what an "official domain" is or how to find it. I gave examples, reiterating that NCSU uses ncsu.edu (considering my audience). But more could be done here. (I didn't specifically address mobile devices, for one.) I did, however, comprehensively address the important failure state of having provided information to a phishing scam.
+- **Images**: I aimed to make figures 1 and 2 complementary, such that each figure and chunk of text worked together to reinforce the step. I did not want any extraneous information. The figures may be more supplementary, however, because the user doesn't require them to understand the text/step. Either way, these figures are valuable because they portray an actual NCSU Gmail inbox, cropped to focus on specific information. Figure 3 illustrates the concept of a suspicious link but also simplifies a potentially ambiguous situation wherein two pieces of information (link text and link destination) are visually unrelated or far apart.
