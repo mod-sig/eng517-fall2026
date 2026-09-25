@@ -2,6 +2,8 @@
 
 Phishing scams try to trick you into providing criminals with money or private information. By combining your private information like passwords or answers to security questions with publicly available information about you, criminals can steal your identity and cause a lot of trouble. For example, they could open new credit cards, take out loans, purchase expensive items, or even receive medical care in your name.[^1] Criminals might also sell your information and target your friends, family, and other people you know.
 
+<!-- good introduction that sets the scene for why this topic is worthy of attention. Maybe the last sentence could go. -->
+
 Phishing emails masquerade as messages from legitimate organizations or people. These emails may include incredible job offers or demands that you update your payment information for an online service. Criminals hope that you will be too surprised or upset to notice that the links in these emails are to harmful (yet often real-looking) websites that steal any information you provide.
 
 Fortunately, phishing emails often have several clues that can help you identify when someone is trying to trick you. Here's how you can stay safe.
@@ -14,9 +16,13 @@ Check the sender or the "from" field in your email client. Although phishing ema
 
 Fake domains usually contain misspellings or extra elements, such as "ncsu-edu.com" rather than "ncsu.edu", as in the image; "microsoft-usa.com" rather than "microsoft.com", or "netf1ix.com" rather than "netflix.com". And sometimes attackers use personal email domains like "gmail.com" rather than official domains, hoping you don't notice (as in figure 2). Don't expect our chancellor to contact you via a gmail.com address with the wrong photo!
 
+<!-- Although the procedures, so far, have more writing than I would anticipate students to read, the tone is personable and humorous, so maybe the amount of words and the manner of the delivery offset one another -->
+
 ![](images/sender_hover.png) **Figure 2**. *Hovering over the top sender reveals that the email was sent from a personal rather than official address.*
 
 ## Check the Subject and Skim the Email
+
+<!-- I appreciate how the headings are, by themselves, a minimalist form of documentation. One could just read the headings and have enough information -->
 
 Check the subject line, skim the email, and ask yourself some quick questions:
 
@@ -34,6 +40,8 @@ The destination of a link—where it takes you when you click—and the text or 
 
 ![](images/link_destination.png) **Figure 3**. *Although the link proclaims to be legitimate, it directs you to a scam website.*
 
+<!-- funny sample message. Good use of image annotation to draw attention to the relevant instructional information -->
+
 Hover your mouse over a link to see the destination; depending on your web browser, the destination may appear as a pop-up or in the corner of your screen. Don't click the link if you don't recognize the destination or if it seems suspicious, such as the example in the image or something like an Instagram email with the destination "instagram-accounts.com" rather than "instagram.com".
 
 ## Ask for Help
@@ -42,7 +50,7 @@ If you think the email is legitimate, consider contacting the sender directly to
 
 If you're not so sure about the email, you can consult with the NC State Help Desk by using the [campus IT service portal](https://help.ncsu.edu/) or calling 919-515-HELP (4357). You can also forward suspicious emails to [phishing@ncsu.edu](mailto:phishing@ncsu.edu).[^2]
 
-If you think that you have already provided sensitive information to a scammer, such as by following a link to "confirm your payment details" or "authorize your account", then you should immediately follow these steps to secure your accounts:
+If you think that you have already provided sensitive information to a scammer, such as by following a link to "confirm your payment details" or "authorize your account", then you should immediately follow these steps to secure your accounts: <!-- maybe this kind of "recovery" information could us its own heading? I could see a user wanting to find recovery information directly. Although the recovery information is implied under a heading like "Ask for Help," making that association does require some interpretation --> 
 
 - Reset your password for the affected service or account. Additionally, if the scam involved banking or payment information, contact your bank for further instructions. Although it may be embarrassing to report that your information has been stolen, your bank or credit card provider can't help you unless you tell them what has happened.
 - Reset your email password. You can reset your university email password [here](https://selfserviceidm.ncsu.edu/SSPW/pwdchangeform.htm).
