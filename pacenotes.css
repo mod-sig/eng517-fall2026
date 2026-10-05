@@ -1,0 +1,27 @@
+stage-notes {
+    display: block;
+}
+
+note, start-note, end-note {
+    background-color: #333;
+    font-family: monospace;
+    font: "Hack";
+    font-size: 2rem;
+    color: #FEE;
+    text-align: left;
+    display: list-item;
+    list-style-type: disc;
+    line-height: 2.5rem;
+}
+
+start-note, end-note {
+    color: #EAA;
+}
+
+start {
+    color: #3F3
+}
+
+stop {
+    color: #F33;
+}
