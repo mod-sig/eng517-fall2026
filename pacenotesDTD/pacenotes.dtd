@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT stage-notes (start-note,note+,end-note)>
+<!ELEMENT start-note (start,note)>
+<!ELEMENT start (#PCDATA)>
+<!ELEMENT note (turn-note|distance-note|warning-note)>
+<!ELEMENT turn-note (modifier?,severity,direction,modifier*)>
+<!ELEMENT modifier (#PCDATA)>
+<!ELEMENT severity (#PCDATA)>
+<!ELEMENT direction (#PCDATA)>
+<!ELEMENT distance-note (distance,modifier?)>
+<!ELEMENT distance (#PCDATA)>
+<!ELEMENT warning-note (#PCDATA)>
+<!ELEMENT end-note (finish,note+,stop)>
+<!ELEMENT finish (#PCDATA)>
+<!ELEMENT stop (#PCDATA)>

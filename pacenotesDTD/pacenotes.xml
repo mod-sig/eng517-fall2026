@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="pacenotes.css"?>
+<!DOCTYPE stage-notes SYSTEM "pacenotes.dtd">
+
+<stage-notes>
+    <start-note>
+        <start>starts</start>
+        <distance-note>
+            <distance>200</distance>
+            <modifier>onto gravel</modifier>
+        </distance-note>
+    </start-note>
+    <note><turn-note>
+        <severity>5</severity>
+        <direction>R</direction>
+        <modifier>+</modifier>
+        <modifier>long</modifier>
+    </turn-note></note>
+    <note><distance-note>
+        <distance>70</distance>
+    </distance-note></note>
+    <note><warning-note>caution over crest</warning-note></note>
+    <note><turn-note>
+        <modifier>early</modifier>
+        <severity>3</severity>
+        <direction>L</direction>
+    </turn-note></note>
+    <note><turn-note>
+        <severity>3</severity>
+        <direction>R</direction>
+    </turn-note></note>
+    <note><turn-note>
+        <severity>6</severity>
+        <direction>L</direction>
+        <modifier>extra long</modifier>
+        <modifier>onto tarmac</modifier>
+    </turn-note></note>
+    <note><distance-note>
+        <distance>200</distance>
+        </distance-note></note>
+    <end-note>
+        <finish>over finish</finish>
+        <turn-note>
+            <severity>4</severity>
+            <direction>R</direction>
+        </turn-note>
+        <stop>to stop</stop>
+    </end-note>
+</stage-notes>
