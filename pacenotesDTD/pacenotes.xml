@@ -9,6 +9,8 @@
             <distance>200</distance>
             <modifier>onto gravel</modifier>
         </distance-note>
+<!-- according to the DTD, there should also be a "note" element in here -->
+        
     </start-note>
     <note><turn-note>
         <severity>5</severity>
