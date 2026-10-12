@@ -5,6 +5,9 @@
 <!ELEMENT start (#PCDATA)>
 <!ELEMENT note (turn-note|distance-note|warning-note)>
 <!ELEMENT turn-note (modifier?,severity,direction,modifier*)>
+
+<!-- a reason for "modifier" appearing twice? I believe that the "?" and the "*" both mean zero or more so you may not need both -->
+
 <!ELEMENT modifier (#PCDATA)>
 <!ELEMENT severity (#PCDATA)>
 <!ELEMENT direction (#PCDATA)>
